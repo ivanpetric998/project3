@@ -1,0 +1,7 @@
+.collection {
+    border: 0px;
+}
+
+.collection .collection-item {
+    padding-right: 0px;
+}
